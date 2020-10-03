@@ -1,0 +1,13 @@
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.exe
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.deps.json
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.json
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.dev.json
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.dll
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.pdb
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csprojAssemblyReference.cache
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfoInputs.cache
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfo.cs
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.dll
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.pdb
+C:\Users\adiatri\Desktop\MyWorkSpace-OMS\DemoCSharp\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.genruntimeconfig.cache
